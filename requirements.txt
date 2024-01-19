@@ -1,0 +1,7 @@
+Flask
+pydantic
+langchain
+pymongo
+openai
+pandas
+plotly
